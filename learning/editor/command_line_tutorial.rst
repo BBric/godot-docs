@@ -17,7 +17,7 @@ Path
 It is recommended that your godot binary is in your PATH environment
 variable, so it can be executed easily from any place by typing
 ``godot``. You can do so on Linux by placing the Godot binary in
-``/usr/local/bin`` and making sure it is called ``godot``.
+``/usr/local/bin`` and making sure it is called ``godot`` (or create an alias in ``/home/user/.bash_aliases``).
 
 Creating a project
 ------------------
